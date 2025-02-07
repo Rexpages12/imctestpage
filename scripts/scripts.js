@@ -35,7 +35,6 @@ function volveintentar() {
     document.getElementById("MC").textContent = "";
     document.getElementById("texto_final").textContent = "";
     document.getElementById("imagen_final").src = "";
-    document.getElementById("imagen_final_2").src = ""
 }
 
 function Imagenes(MC) {
